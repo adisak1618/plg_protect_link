@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extention version="3.0" type="plugin" group="content" method="upgrade">
+	<name>PLG_CONTENT_LINKPROTECT</name>
+	<author>Adisak Chaiyakul</author>
+	<creationDate>11/6/2015</creationDate>
+	<copyright>Copyright 2015 Adisak Chaiyakul. All rights Reserved</copyright>
+	<license>GNU/GPU</license>
+	<authorEmail>adisakchaiyakul@gmail.com</authorEmail>
+	<version>1.0.0</version>
+	<description>PLG_CONTENT_LINKPROTECT_DESCRIPTION</description>
+	<files>
+		<filename plugin="linkprotect">linkprotect.php</filename>
+		<filename>index.php<filename>
+		<folder>helper</folder>
+	</files>
